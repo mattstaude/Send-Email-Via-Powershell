@@ -1,7 +1,7 @@
 # Created By Matt Staude
 # The purpose of this script is to send an email with all files in a specified folder as an attachment.  
 # This part sends the email
-# Please set up a connector if you wish to use  this script without requireing login.
+# Please set up a connector if you wish to use this script without login.
 $parameters = @{
     from        = "from@mydomain.com"
     to          = "to@yourdomain.com"
